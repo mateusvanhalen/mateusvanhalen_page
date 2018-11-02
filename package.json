@@ -3,6 +3,9 @@
     "version": "1.0.0",
     "description": "Matthew Hall's Personal Site",
     "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
     "author": "Matthew Hall",
     "license": "ISC",
     "dependencies": {
