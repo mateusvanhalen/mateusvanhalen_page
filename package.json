@@ -1,11 +1,14 @@
 {
-    "name": "matt-personal-site",
+    "name": "Matt Hall",
     "version": "1.0.0",
-    "description": "Matthew Hall's Personal Site",
+    "description": "",
+    "main": "index.php",
     "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "Matthew Hall",
+    "author": "",
     "license": "ISC",
     "dependencies": {
+      "http-server": "^0.11.1"
     }
   }
