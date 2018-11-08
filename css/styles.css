@@ -1,5 +1,5 @@
 .dropbtn {
-    background-color: rgb(39, 3, 201);
+    background-color: lightseagreen;
     color: white;
     padding: 16px;
     font-size: 16px;
@@ -19,6 +19,7 @@
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
 }
+
 .pic-dropdown-content {
     position: absolute;
     background-color: orange;
