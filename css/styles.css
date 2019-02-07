@@ -40,6 +40,13 @@
     display: block;
 }
 
+.about
+    {
+        font-family: 'Montserrat';font-size: 22px;
+    }
+
+
+
 .dropdown-content a:hover {background-color: #ddd;}
 
 .dropdown:hover .dropdown-content {display: block;}
